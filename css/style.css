@@ -1,0 +1,35 @@
+
+
+#googleForms {
+    width: 640px;
+    height: 812px;
+}
+
+
+@media only screen and (max-width: 425px) {
+
+#googleForms {
+    width: 400px;
+    height: 1024px;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+
+#googleForms {
+    width: 350px;
+    height: 1280px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+#googleForms {
+    width: 320px;
+    height: 1280px;
+}
+
+}
+
